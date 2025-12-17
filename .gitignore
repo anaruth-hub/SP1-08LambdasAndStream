@@ -7,3 +7,12 @@ out/
 .DS_Store
 Thumbs.db
 *.log
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven / build
+target/
+out/
+
