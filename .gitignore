@@ -1,0 +1,21 @@
+﻿# Maven / Java build
+target/
+out/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated output
+cute-json-output/
+
