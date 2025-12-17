@@ -1,4 +1,4 @@
-package level01.exercici02;
+package level01.exercise02;
 
 import java.util.List;
 
