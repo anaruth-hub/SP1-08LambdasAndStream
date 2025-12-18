@@ -1,4 +1,7 @@
 package level02.exercise03;
 
-public class FloatOperation {
+@FunctionalInterface
+public interface FloatOperation {
+    float operation(float a, float b);
+
 }

@@ -1,4 +1,4 @@
-package level02.exercise01;
+package level01.exercise08;
 
 @FunctionalInterface
 public interface StringReverser {
