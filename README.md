@@ -1,5 +1,4 @@
-﻿# My Project
-# SP1-08LambdasAndStream
+﻿# SP1-08LambdasAndStream
 
 **Description:** Java (Maven) project with **Lambdas & Streams** exercises (Java 8+) to practice functional programming concepts: filtering, mapping, sorting, method references, and custom functional interfaces. Organized by levels and exercises, with simple `Main` classes to run each solution.
 
